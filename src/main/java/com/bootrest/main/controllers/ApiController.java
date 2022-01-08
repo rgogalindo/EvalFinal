@@ -28,8 +28,6 @@ public class ApiController {
 	@Autowired
 	private TiendaServicio serv;
 	
-
-	
 	//Guardar una nueva factura
 	/* Ejemplo de un JSON para guardar una nueva factura
 	 * {
